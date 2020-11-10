@@ -187,7 +187,7 @@ License: GNU GPLv3
 
 if __name__ == "__main__":
     colorprint('Keycore V1 - A keylogging engine', 'cyan')
-    colorprint('\nAuthor: torswq', 'yellow')
+    colorprint('\nAuthor: systemnaut', 'yellow')
     colorprint('Version: ', 'yellow', 'bold', end='')
     colorprint(' 1.0', 'green')
     keyc = Keycore()
